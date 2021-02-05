@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428958628794",
+    "project_id": "atlas-30f84",
+    "storage_bucket": "atlas-30f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428958628794:android:f0ac52d9d5e8967cf6fb83",
+        "android_client_info": {
+          "package_name": "com.example.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428958628794-9hot448oa5d6ke75ph8j2cdikcq7jg2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIY2EW8hct0lWAaSEqCuEXH-seQED63uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428958628794-9hot448oa5d6ke75ph8j2cdikcq7jg2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
